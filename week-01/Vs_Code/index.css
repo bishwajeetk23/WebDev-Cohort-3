@@ -4,12 +4,12 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+.navContainer{
+    width: 1200px;
+    margin:0 auto;
+}
 .flex{
     display: flex;
-}
-a{
-    text-decoration: none;
-    color: #0078d4;
 }
 .vertical-center{
     display: flex;
