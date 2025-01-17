@@ -3,8 +3,10 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: black;
+    color: #9fb1d1;
 }
-.navContainer{
+.Container{
     width: 1200px;
     margin:0 auto;
 }
@@ -15,4 +17,14 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+.content-scetion1{
+    width: 1200px;
+    margin:0 auto;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
