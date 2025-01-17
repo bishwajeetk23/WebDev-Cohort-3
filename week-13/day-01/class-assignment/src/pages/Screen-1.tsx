@@ -16,7 +16,7 @@ export function Screen1() {
 
     return (
         <div className="h-screen bg-blue-800 flex justify-center align-center">
-            <div className="w-500 flex flex-col">
+            <div className="w-[500px] flex flex-col">
                 <div className={`mt-20 ${horizontalCenter}`}>
                     <img src={companylogo} width="100px" height="60px" alt="logo" />
                 </div>
