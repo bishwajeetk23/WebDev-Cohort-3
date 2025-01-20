@@ -1,13 +1,13 @@
 import './App.css';
-import { Screen1 } from './pages/Screen-1';
+import { Screen2 } from './pages/screen-2';
 
 function App() {
 
   return (
     <>
-      <Screen1 />
+      <Screen2 />
     </>
-  )
+  );
 }
 
 export default App
